@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gobind Multani</h1>
+<h3 align="center">A passionate frontend developer from New York</h3>
 
-<!--
-**Gmultani14/Gmultani14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN stack, JSON and Node.js**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [github.com/Gmultani14](github.com/Gmultani14)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **React, JAVAScript and HTML/CSS**
+
+- 📫 How to reach me **gobindmultani98@gmail.com**
+
+- ⚡ Fun fact **I love Billiards**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
