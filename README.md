@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gobind Multani</h1>
+a<h1 align="center">Hi 👋, I'm Gobind Multani</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 
 - 🌱 I’m currently learning **MERN stack, JSON and Node.js**
@@ -11,6 +11,6 @@
 
 - ⚡ Fun fact **I love Billiards**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
